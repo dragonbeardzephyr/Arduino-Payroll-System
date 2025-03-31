@@ -1,3 +1,2 @@
-Hardware Used:
-  Arduino Uno R3 + Adafruit RGB LCD
+Hardware used includes the Arduino Uno R3 and the Adafruit RGB LCD
 
